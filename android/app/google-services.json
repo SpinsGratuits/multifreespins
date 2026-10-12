@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915152897009",
+    "project_id": "multi-free-spins-da924",
+    "storage_bucket": "multi-free-spins-da924.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915152897009:android:528a31d1ca1b141aa0fa50",
+        "android_client_info": {
+          "package_name": "com.nicomettech.multifreespins"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxnp0vpGl_ntFxU-NfSuDwrcUf-nCf0BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
